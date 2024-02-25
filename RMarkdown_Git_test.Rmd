@@ -13,3 +13,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Test line a
 # Test line b
+# Test line c
